@@ -8,12 +8,12 @@ st.title("🔐 Ultimate Password Strength Checker")
 st.markdown("""
 Welcome to the **Ultimate Password Strength Checker!**  
 Ensure your password is secure by checking:
-- ✅ Length
-- ✅ Upper & Lowercase letters
-- ✅ Numbers
-- ✅ Special Characters
+- ✔️ Length
+- ✔️Upper & Lowercase letters
+- ✔️ Numbers
+- ✔️ Special Characters
 
-> ⚡ *Improve your online security by creating strong passwords!*  
+> 🔐 *Improve your online security by creating strong passwords!*  
 """)
 
 # 🏷️ Input Field
@@ -75,5 +75,5 @@ if st.button("🔍 Check Password Strength"):
 # Footer
 st.markdown("""
 ---
-Made with ❤️ by **Farooque Ahmed**  
+Made with by This Boi  ✨ ***Farooque Ahmed***
 """)
